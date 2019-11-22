@@ -1,6 +1,7 @@
 # Node.js Buildpack Changelog
 
 ## master
+- Fix yarn cache feature flag ([#729](https://github.com/heroku/heroku-buildpack-nodejs/pull/729))
 
 ## V165 (2019-10-24)
 - Update README ([#725](https://github.com/heroku/heroku-buildpack-nodejs/pull/725))
